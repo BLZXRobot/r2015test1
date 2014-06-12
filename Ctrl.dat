@@ -1,7 +1,7 @@
 [Descr]
-AIN1=
-AIN2=
-AIN3=
+AIN1=Arm Potentiometer
+AIN2=Hand Potentiometer
+AIN3=Spinal Column Potentiometer
 AIN4=
 AIN5=
 AIN6=
