@@ -1,0 +1,92 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		1A5ACF021959132700BBD6BC /* Ctrl.dat */ = {isa = PBXFileReference; lastKnownFileType = text; name = Ctrl.dat; path = ../Ctrl.dat; sourceTree = "<group>"; };
+		1A5ACF031959132700BBD6BC /* extern.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = extern.c; path = ../extern.c; sourceTree = "<group>"; };
+		1A5ACF041959132700BBD6BC /* extern.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = extern.h; path = ../extern.h; sourceTree = "<group>"; };
+		1A5ACF051959132700BBD6BC /* r2015test1.BDS */ = {isa = PBXFileReference; lastKnownFileType = file; name = r2015test1.BDS; path = ../r2015test1.BDS; sourceTree = "<group>"; };
+		1A5ACF061959132700BBD6BC /* r2015test1.ECPX */ = {isa = PBXFileReference; lastKnownFileType = text; name = r2015test1.ECPX; path = ../r2015test1.ECPX; sourceTree = "<group>"; };
+		1A5ACF071959132700BBD6BC /* r2015test1.LOG */ = {isa = PBXFileReference; lastKnownFileType = text; name = r2015test1.LOG; path = ../r2015test1.LOG; sourceTree = "<group>"; };
+		1A5ACF081959132700BBD6BC /* r2015test1.LST */ = {isa = PBXFileReference; lastKnownFileType = text; name = r2015test1.LST; path = ../r2015test1.LST; sourceTree = "<group>"; };
+		1A5ACF091959132700BBD6BC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		1A5ACF0A1959132700BBD6BC /* ReadMe.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = ReadMe.txt; path = ../ReadMe.txt; sourceTree = "<group>"; };
+		1A5ACF0B1959132700BBD6BC /* UserInclude.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = UserInclude.h; path = ../UserInclude.h; sourceTree = "<group>"; };
+		1A5ACF0C195913B700BBD6BC /* API.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = API.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		1A5ACEFB195912FC00BBD6BC = {
+			isa = PBXGroup;
+			children = (
+				1A5ACF021959132700BBD6BC /* Ctrl.dat */,
+				1A5ACF0C195913B700BBD6BC /* API.h */,
+				1A5ACF031959132700BBD6BC /* extern.c */,
+				1A5ACF041959132700BBD6BC /* extern.h */,
+				1A5ACF051959132700BBD6BC /* r2015test1.BDS */,
+				1A5ACF061959132700BBD6BC /* r2015test1.ECPX */,
+				1A5ACF071959132700BBD6BC /* r2015test1.LOG */,
+				1A5ACF081959132700BBD6BC /* r2015test1.LST */,
+				1A5ACF091959132700BBD6BC /* README.md */,
+				1A5ACF0A1959132700BBD6BC /* ReadMe.txt */,
+				1A5ACF0B1959132700BBD6BC /* UserInclude.h */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		1A5ACEFC195912FC00BBD6BC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+			};
+			buildConfigurationList = 1A5ACEFF195912FC00BBD6BC /* Build configuration list for PBXProject "edu.zhjits.vex.r2015test1" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1A5ACEFB195912FC00BBD6BC;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		1A5ACF00195912FC00BBD6BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		1A5ACF01195912FC00BBD6BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1A5ACEFF195912FC00BBD6BC /* Build configuration list for PBXProject "edu.zhjits.vex.r2015test1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A5ACF00195912FC00BBD6BC /* Debug */,
+				1A5ACF01195912FC00BBD6BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1A5ACEFC195912FC00BBD6BC /* Project object */;
+}
