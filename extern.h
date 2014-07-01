@@ -1,7 +1,7 @@
 // =========================================
 /* extern.h
  * 
- * trying to import something outside this program.
+ * main extern function container
  *
  */
 // =========================================
@@ -11,10 +11,10 @@
 #define EXTERN_H
 
 // Code goes here
-void test();
 void main_process();
 
 
 #endif
+
 
 
